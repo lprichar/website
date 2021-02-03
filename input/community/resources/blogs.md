@@ -5,6 +5,10 @@ RedirectFrom: docs/resources/blogs
 ---
 # 2020
 
+## Lee Richardson
+
+* [The One Thing I Wish I'd Known Before Using Cake](http://www.leerichardson.com/2021/02/he-one-thing-i-wish-id-known-before.html)
+
 ## Daniel Hindrikes
 * [GitHub Actions and Cake for TinyMvvm](https://danielhindrikes.se/index.php/2020/11/26/github-actions-for-tinymvvm/)
 
@@ -15,6 +19,10 @@ RedirectFrom: docs/resources/blogs
 * [How to use Azure DevOps Pipeline and Cake to generate a static website](http://www.frankysnotes.com/2019/03/how-to-use-azure-devops-pipeline-and.html)
 
 # 2018
+
+## Lee Richardson
+* [Why Use Cake? 4 Reasons](http://www.leerichardson.com/2018/05/continuous-integration-logic-4-hidden.html)
+* [Intro to Cake: Cross Platform Build Automation in C#](https://www.youtube.com/watch?v=WbaR2-v6JXQ&feature=emb_title&ab_channel=LeeRichardson)
 
 ## Chester Burbidge
 * [Running VsTest with Cake](https://blog.scottlogic.com/2018/08/14/run-vstest-with-cake.html)
